@@ -1,0 +1,30 @@
+{
+  "name": "react-native-autocomplete-dropdown",
+  "version": "1.0.0",
+  "description": "Plain JS React Native Autocomplete component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "autocomplete",
+    "dropdown",
+    "selectize",
+    "select2",
+    "typeahead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onova/react-native-autocomplete-dropdown.git"
+  },
+  "author": "Gianfranco Palumbo <hello@gian.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onova/react-native-autocomplete-dropdown/issues"
+  },
+  "homepage": "https://github.com/onova/react-native-autocomplete-dropdown#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
