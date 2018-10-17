@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import { Platform, StyleSheet, Text, View } from "react-native";
+import React, { Component } from 'react';
+import { Platform, StyleSheet, Text, View } from 'react-native';
 
-import PropTypes from "prop-types";
+import PropTypes from 'prop-types';
 
 export default class Autocomplete extends Component {
   static propTypes = {
@@ -9,7 +9,7 @@ export default class Autocomplete extends Component {
   };
 
   static defaultProps = {
-    greeting: "hello my friend"
+    greeting: 'hello my friend'
   };
 
   render() {

@@ -26,5 +26,8 @@
   "homepage": "https://github.com/onova/react-native-autocomplete-dropdown#readme",
   "dependencies": {
     "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.3"
   }
 }

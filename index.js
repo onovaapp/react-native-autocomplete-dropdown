@@ -1,3 +1,3 @@
-import Autocomplete from "./src/Autocomplete.js";
+import Autocomplete from './src/Autocomplete.js';
 
 export default Autocomplete;
